@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### SIGN-BRIDGE
 
-## Getting Started
+SIGN-BRIDGE is an application that bridges the communication gap between specially abled people and normal people. It aims to facilitate effective communication by providing a platform for translating sign language into spoken language and vice versa.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Sign Language Translation: The application uses advanced computer vision and machine learning techniques to recognize sign language gestures and translate them into spoken language.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Speech-to-Sign Translation: It also supports speech-to-sign translation, allowing normal people to communicate with specially abled individuals who use sign language.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- User-Friendly Interface: SIGN-BRIDGE provides a user-friendly interface that is intuitive and easy to use, making it accessible to people of all skill levels.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Customization: The application allows users to customize the sign language gestures and spoken language translations according to their preferences and needs.
 
-## Learn More
+## Code Description
 
-To learn more about Next.js, take a look at the following resources:
+This contains only the landing page design.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you have any questions or suggestions regarding SIGN-BRIDGE, please feel free to contact us at _______________.
